@@ -5,6 +5,7 @@
   "main": "./src/index.ts",
   "scripts": {
     "start": "nodemon src/index.ts",
+    "build": "tsc",
     "test": "jest",
     "prepare": "husky install",
     "create-hook": "husky add .husky/pre-commit \"npm test\""
