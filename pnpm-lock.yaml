@@ -39,6 +39,9 @@ devDependencies:
   '@types/jest':
     specifier: ^29.5.2
     version: 29.5.2
+  '@types/node':
+    specifier: ^20.3.1
+    version: 20.3.1
   husky:
     specifier: ^8.0.3
     version: 8.0.3
